@@ -1,0 +1,15 @@
+{
+  "name": "finwise",
+  "version": "1.0.0",
+  "description": "Personal finance mobile app (initial setup).",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "expo": "^49.0.0",
+    "react": "^18.2.0",
+    "react-native": "0.73.0"
+  }
+}
