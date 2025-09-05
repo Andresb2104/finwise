@@ -1,0 +1,2 @@
+# finwise
+app perosonal
